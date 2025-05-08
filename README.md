@@ -1,4 +1,4 @@
-Factorionline (is not a server)
+# Factorionline (is not a server)
 Keep your Factorio multiplayer games in sync—without a dedicated server!
 
 Factorionline is a simple tool that automatically pushes your Factorio game saves to a GitHub repository and pulls the latest version before each session. This makes it easy to play with friends asynchronously, allowing each player to contribute to the same game without needing to be online at the same time.
